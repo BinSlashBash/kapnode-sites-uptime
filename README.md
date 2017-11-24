@@ -34,13 +34,13 @@ Para conferir mais sobre nossos projetos, acesse https://kap-no.de.
 |-----|-----|-----|-----|
 | <img src="https://app.statuscake.com/button/index.php?Track=f43DXXdqyX&Days=1&Design=1" /> | <img src="https://app.statuscake.com/button/index.php?Track=f43DXXdqyX&Days=7&Design=1" /> | <img src="https://app.statuscake.com/button/index.php?Track=f43DXXdqyX&Days=30&Design=1" /> | <img src="https://app.statuscake.com/button/index.php?Track=f43DXXdqyX&Days=1000&Design=1" /> |
 
-### [Infinite Fansub - Site](https://ichibanfansub.com.br)
+### [Infinite Fansub - Site](https://infinitefansub.com)
 
 | Hoje | Últimos 7 dias | Últimos 30 dias | Desde sempre |
 |-----|-----|-----|-----|
 | <img src="https://app.statuscake.com/button/index.php?Track=V8vop93U9q&Days=1&Design=1" /> | <img src="https://app.statuscake.com/button/index.php?Track=V8vop93U9q&Days=7&Design=1" /> | <img src="https://app.statuscake.com/button/index.php?Track=V8vop93U9q&Days=30&Design=1" /> | <img src="https://app.statuscake.com/button/index.php?Track=V8vop93U9q&Days=1000&Design=1" /> |
 
-### [Infinite Fansub - Leitor Online](https://ichibanfansub.com.br)
+### [Infinite Fansub - Leitor Online](http://leitor.infinitefansub.com)
 
 | Hoje | Últimos 7 dias | Últimos 30 dias | Desde sempre |
 |-----|-----|-----|-----|
